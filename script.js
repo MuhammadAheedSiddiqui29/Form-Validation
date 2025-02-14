@@ -78,7 +78,7 @@ function validateMessage(){
     return true;
 }
 
-//FORM BUTTON FUNCTIONALITY
+//FORM SUBMIT BUTTON FUNCTIONALITY
 
 function validateForm(){
     if(!validateName() || !validatePhone() || !validateEmail() || !validateMessage()){
