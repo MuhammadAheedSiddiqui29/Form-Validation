@@ -62,7 +62,7 @@ function validateEmail(){
     return true;
 }
 
-//FORM MESSAGE BOX FUNCTIONALITY
+//FORM MESSAGE BOX INPUT FUNCTIONALITY
 
 function validateMessage(){
     let message = document.querySelector("#contact-message").value;
