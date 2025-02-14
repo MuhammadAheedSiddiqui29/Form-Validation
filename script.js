@@ -45,7 +45,7 @@ function validatePhone(){
     return false;
 }
 
-//FORM EMAIL FUNCTIONALITY
+//FORM EMAIL INPUT FUNCTIONALITY
 
 function validateEmail(){
     let email = document.querySelector("#contact-email").value;
