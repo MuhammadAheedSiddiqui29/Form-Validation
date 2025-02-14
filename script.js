@@ -4,7 +4,7 @@ let emailError = document.querySelector("#email-error");
 let messageError = document.querySelector("#message-error");
 let submitError = document.querySelector("#submit-error");
 
-//FORM NAME FUNCTIONALITY
+//FORM NAME INPUT FUNCTIONALITY
 
 function validateName(){
     let name = document.querySelector("#contact-name").value;
