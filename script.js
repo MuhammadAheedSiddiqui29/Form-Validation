@@ -21,7 +21,7 @@ function validateName(){
     return true;
 }
 
-//FORM PHONE NUMBER FUNCTIONALITY
+//FORM PHONE INPUT FUNCTIONALITY
 
 function validatePhone(){
     let phone = document.querySelector("#contact-phone").value;
